@@ -1,12 +1,21 @@
 # Ecommerce API Test Framework (Java + Rest Assured + TestNG)
 
 ## 📌 Overview
-This project is an automated API testing framework for the [Demoblaze API](https://api.demoblaze.com) and related Ecommerce endpoints.
-It is built using:
+This project is an **AI-assisted automated API testing framework** for the [Demoblaze API](https://www.demoblaze.com) and related Ecommerce endpoints.
+
+It was designed and implemented with the help of **AI-driven code generation and optimization**, making the development process faster, more accurate, and highly maintainable.  
+By leveraging AI during development, the framework:
+- Automatically generated **POJO classes** from API payloads.
+- Suggested optimal **TestNG** and **Rest Assured** structures.
+- Created **data-driven test cases** with dynamic assertions to handle varying API responses (JSON & plain text).
+- Reduced manual coding time while maintaining **clean, modular architecture**.
+
+**Tech stack:**
 - **Java**
 - **Rest Assured** for API testing
 - **TestNG** for test execution & reporting
 - **POJO classes** for clean request/response handling
+- **AI-powered design assistance** for structure, code quality, and coverage planning
 
 The framework is designed for **data-driven API tests** with clear separation between:
 - Models (`src/main/java`)
