@@ -92,7 +92,7 @@ target/surefire-reports/index.html
 - /viewcart
 - /deletecart
 
-### ***2. Integrate with Allure Reports**
+### **2. Integrate with Allure Reports**
 - Integrate with CI/CD pipeline (GitHub Actions)
 
 ## 📄 License
